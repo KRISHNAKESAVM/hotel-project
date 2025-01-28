@@ -1,2 +1,2 @@
-# hotel-project
+# Hotel-project
 project/2
